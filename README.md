@@ -1,5 +1,8 @@
 # REAL / FAKE PRODUCT IDENTIFIER DAPP!
 
+DESCRIPTION-
+The Real/Fake Product Identifier is a Decentralized Application which will help to distinguish between the original product and the fake product using Ethereum based Blockchain Technology.The use of Blockchain Technology make the project more robust and secure as compared to the previous anti-counterfeiting software. The manufacturer will add a QR Code while manufacturing the product. The product details and all the information are stored in blocks in Blockchain Network. The consumer who buys the product will scan the QR Code using application which will provide product's information as it will search the scanned QR Code in the Blockchain Database entries. If the product is original, it will provide all the details, otherwise, it will indicate that the product is fake as there is no entry in the database regarding the product.
+
 INSTRUCTIONS-
 1) Download and install Ganache.
 2) 2) Download and install Xamppserver on windows or MAMP on MacOS X.
