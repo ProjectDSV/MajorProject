@@ -7,23 +7,23 @@ The Real/Fake Product Identifier is a Decentralized Application which will help 
 
 HOW TO INSTALL-
 
-Download and install Ganache.
-Download and install Xamppserver on windows or MAMP on MacOS.
-Download and install Google Chrome (in case you don't have it already). Go to the Chrome store and download Metamask
-Create a Metamask account.
-Run Ganache.
-In Metamask, select Networks > Custom RPC.
-Give any name to the network.
-Copy RPC Server URL from Ganache
-Go to Metamask > Accounts > Import Account.
-Open Ganache, go to the Accounts tab, click on the key icon on the right side for an account and copy the private key.
-Paste this key in the Metamask import account section.
-Copy the smartcontract.sol from this repo and paste it into RemixIDE code section.
-Save it, go to compile tab and compile the code.
-Go to the deploy tab, select Environment as 'Injected Web3' then Click deploy.
-Copy the contract address and paste it into the app.js file.
-Copy the contract ABI from compile tab and paste it into the app.js file.
-Now, start the XAMMP server.
-Paste the project folder inside htdocs folder of the root directory.
-Open phpmyadmin, go to SQL and paste the sql queries provided inside the sql folder.
-Type the URL in the browser: https://localhost/supplychain
+1) Download and install Ganache.
+2) Download and install Xamppserver on windows or MAMP on MacOS.
+3) Download and install Google Chrome (in case you don't have it already). Go to the Chrome store and download Metamask
+4) Create a Metamask account.
+5) Run Ganache.
+6) In Metamask, select Networks > Custom RPC.
+7) Give any name to the network.
+8) Copy RPC Server URL from Ganache.
+9) Go to Metamask > Accounts > Import Account.
+10) Open Ganache, go to the Accounts tab, click on the key icon on the right side for an account and copy the private key.
+11) Paste this key in the Metamask import account section.
+12) Copy the smartcontract.sol from this repo and paste it into RemixIDE code section.
+13) Save it, go to compile tab and compile the code.
+14) Go to the deploy tab, select Environment as 'Injected Web3' then Click deploy.
+15) Copy the contract address and paste it into the app.js file.
+16) Copy the contract ABI from compile tab and paste it into the app.js file.
+17) Now, start the XAMMP server.
+18) Paste the project folder inside htdocs folder of the root directory.
+19) Open phpmyadmin, go to SQL and paste the sql queries provided inside the sql folder.
+20) Type the URL in the browser: https://localhost/supplychain
